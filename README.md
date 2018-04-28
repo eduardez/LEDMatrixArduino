@@ -17,14 +17,10 @@ A su vez, el boton `Copiar` genera el codigo de la matriz y lo copia en el porta
 
 ---
 
-Por otro lado, también estoy desarrollando en el programa una serie de formas (como letras y demas) predeterminadas para que la obtencion de caracteres normales sea mas rapida.
 
 
 
-
-
-
-*Ya se que aun le falta mucho y el codigo no es del todo correcto, pero en 3 dias es lo que hay* ¯\_(ツ)_/¯ . 
+*Edulcorante * ¯\_(ツ)_/¯ . 
 
 	
 	
