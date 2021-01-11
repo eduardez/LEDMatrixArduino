@@ -20,7 +20,6 @@ A su vez, el boton `Copiar` genera el codigo de la matriz y lo copia en el porta
 
 
 
-*Edulcorante* ¯\_(ツ)_/¯ . 
 
 	
 	
